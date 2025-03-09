@@ -2,10 +2,10 @@ import React from 'react'
 
 
 const Brands = () => {
-  const Project = {
-    height: "300px",
-    // minWidth: "100%"
-  }
+  // const Project = {
+  //   height: "300px",
+  //   // minWidth: "100%"
+  // }
   return (
     <div id='Brands' className=' bg-center w-full py-5 bg-slate-200  relative top-14 2xl:px-30 xl:px-40 lg:px-20 sm:px-4 flex flex-col justify-evenly  '>
       <div className=' text-4xl  font-semibold flex justify-center items-center'>Brands</div>
